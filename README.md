@@ -8,3 +8,5 @@
 * [Туторіал по Git. Частина-5](https://www.tiktok.com/@learn.ai.python/video/7202687214004817158?lang=uk-UA)
 * [Туторіал по Git. Частина-6](https://www.tiktok.com/@learn.ai.python/video/7205244968275938566?lang=uk-UA)
 * [Туторіал по Git. Частина-7](https://www.tiktok.com/@learn.ai.python/video/7206347387307085062?lang=uk-UA)
+
+## 
